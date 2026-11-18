@@ -1,0 +1,696 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "bitManipulation",
+      "request": "launch",
+      "mainClass": "bitManipulation",
+      "projectName": "javasoma_b38dcfe"
+    },
+    {
+      "type": "java",
+      "name": "permutationsOfString",
+      "request": "launch",
+      "mainClass": "permutationsOfString",
+      "projectName": "javasoma_b38dcfe"
+    },
+    {
+      "type": "java",
+      "name": "stringASCIIDifference",
+      "request": "launch",
+      "mainClass": "stringASCIIDifference",
+      "projectName": "javasoma_b38dcfe"
+    },
+    {
+      "type": "java",
+      "name": "toggleTheCase",
+      "request": "launch",
+      "mainClass": "toggleTheCase",
+      "projectName": "javasoma_b38dcfe"
+    },
+    {
+      "type": "java",
+      "name": "stringCompression",
+      "request": "launch",
+      "mainClass": "stringCompression",
+      "projectName": "javasoma_b38dcfe"
+    },
+    {
+      "type": "java",
+      "name": "printPalindromicSubstrings",
+      "request": "launch",
+      "mainClass": "printPalindromicSubstrings",
+      "projectName": "javasoma_b38dcfe"
+    },
+    {
+      "type": "java",
+      "name": "sortDates",
+      "request": "launch",
+      "mainClass": "sortDates",
+      "projectName": "javasoma_b38dcfe"
+    },
+    {
+      "type": "java",
+      "name": "topologicalSortDFS",
+      "request": "launch",
+      "mainClass": "topologicalSortDFS",
+      "projectName": "javasoma_b38dcfe"
+    },
+    {
+      "type": "java",
+      "name": "isGraphBipartite",
+      "request": "launch",
+      "mainClass": "isGraphBipartite",
+      "projectName": "javasoma_b38dcfe"
+    },
+    {
+      "type": "java",
+      "name": "isGraphCyclic",
+      "request": "launch",
+      "mainClass": "isGraphCyclic",
+      "projectName": "javasoma_b38dcfe"
+    },
+    {
+      "type": "java",
+      "name": "hamiltonianPathAndCycle",
+      "request": "launch",
+      "mainClass": "hamiltonianPathAndCycle",
+      "projectName": "javasoma_b38dcfe"
+    },
+    {
+      "type": "java",
+      "name": "numberOfIslands",
+      "request": "launch",
+      "mainClass": "numberOfIslands",
+      "projectName": "javasoma_b38dcfe"
+    },
+    {
+      "type": "java",
+      "name": "isGraphConnected",
+      "request": "launch",
+      "mainClass": "isGraphConnected",
+      "projectName": "javasoma_b38dcfe"
+    },
+    {
+      "type": "java",
+      "name": "getConnectedComponentsOfGraph",
+      "request": "launch",
+      "mainClass": "getConnectedComponentsOfGraph",
+      "projectName": "javasoma_b38dcfe"
+    },
+    {
+      "type": "java",
+      "name": "graphMultisolverUsingDFS",
+      "request": "launch",
+      "mainClass": "graphMultisolverUsingDFS",
+      "projectName": "javasoma_b38dcfe"
+    },
+    {
+      "type": "java",
+      "name": "findAllPathsInGraph",
+      "request": "launch",
+      "mainClass": "findAllPathsInGraph",
+      "projectName": "javasoma_b38dcfe"
+    },
+    {
+      "type": "java",
+      "name": "findPathInGraph",
+      "request": "launch",
+      "mainClass": "findPathInGraph",
+      "projectName": "javasoma_b38dcfe"
+    },
+    {
+      "type": "java",
+      "name": "bestTimeToBuyAndSellStocks6",
+      "request": "launch",
+      "mainClass": "bestTimeToBuyAndSellStocks6",
+      "projectName": "javasoma_b38dcfe"
+    },
+    {
+      "type": "java",
+      "name": "bestTimeToBuyAndSellStocks5",
+      "request": "launch",
+      "mainClass": "bestTimeToBuyAndSellStocks5",
+      "projectName": "javasoma_b38dcfe"
+    },
+    {
+      "type": "java",
+      "name": "bestTimeToBuyAndSellStocks4",
+      "request": "launch",
+      "mainClass": "bestTimeToBuyAndSellStocks4",
+      "projectName": "javasoma_b38dcfe"
+    },
+    {
+      "type": "java",
+      "name": "bestTimeToBuyAndSellStocks3",
+      "request": "launch",
+      "mainClass": "bestTimeToBuyAndSellStocks3",
+      "projectName": "javasoma_b38dcfe"
+    },
+    {
+      "type": "java",
+      "name": "bestTimeToBuyAndSellStocks2",
+      "request": "launch",
+      "mainClass": "bestTimeToBuyAndSellStocks2",
+      "projectName": "javasoma_b38dcfe"
+    },
+    {
+      "type": "java",
+      "name": "bestTimeToBuyAndSellStocks1",
+      "request": "launch",
+      "mainClass": "bestTimeToBuyAndSellStocks1",
+      "projectName": "javasoma_b38dcfe"
+    },
+    {
+      "type": "java",
+      "name": "partitionIntoSubsets",
+      "request": "launch",
+      "mainClass": "partitionIntoSubsets",
+      "projectName": "javasoma_b38dcfe"
+    },
+    {
+      "type": "java",
+      "name": "friendsPairing",
+      "request": "launch",
+      "mainClass": "friendsPairing",
+      "projectName": "javasoma_b38dcfe"
+    },
+    {
+      "type": "java",
+      "name": "tilingWithDominoesMby1",
+      "request": "launch",
+      "mainClass": "tilingWithDominoesMby1",
+      "projectName": "javasoma_b38dcfe"
+    },
+    {
+      "type": "java",
+      "name": "tilingWithDominoes2by1",
+      "request": "launch",
+      "mainClass": "tilingWithDominoes2by1",
+      "projectName": "javasoma_b38dcfe"
+    },
+    {
+      "type": "java",
+      "name": "pivotOfRotatedSortedArray",
+      "request": "launch",
+      "mainClass": "pivotOfRotatedSortedArray",
+      "projectName": "javasoma_b38dcfe"
+    },
+    {
+      "type": "java",
+      "name": "targetSumPair",
+      "request": "launch",
+      "mainClass": "targetSumPair",
+      "projectName": "javasoma_b38dcfe"
+    },
+    {
+      "type": "java",
+      "name": "paintFence",
+      "request": "launch",
+      "mainClass": "paintFence",
+      "projectName": "javasoma_b38dcfe"
+    },
+    {
+      "type": "java",
+      "name": "radixSort",
+      "request": "launch",
+      "mainClass": "radixSort",
+      "projectName": "javasoma_b38dcfe"
+    },
+    {
+      "type": "java",
+      "name": "sort012",
+      "request": "launch",
+      "mainClass": "sort012",
+      "projectName": "javasoma_b38dcfe"
+    },
+    {
+      "type": "java",
+      "name": "sort01",
+      "request": "launch",
+      "mainClass": "sort01",
+      "projectName": "javasoma_b38dcfe"
+    },
+    {
+      "type": "java",
+      "name": "countingSort",
+      "request": "launch",
+      "mainClass": "countingSort",
+      "projectName": "javasoma_b38dcfe"
+    },
+    {
+      "type": "java",
+      "name": "quickSelect",
+      "request": "launch",
+      "mainClass": "quickSelect",
+      "projectName": "javasoma_b38dcfe"
+    },
+    {
+      "type": "java",
+      "name": "quickSort",
+      "request": "launch",
+      "mainClass": "quickSort",
+      "projectName": "javasoma_b38dcfe"
+    },
+    {
+      "type": "java",
+      "name": "mergeSort",
+      "request": "launch",
+      "mainClass": "mergeSort",
+      "projectName": "javasoma_b38dcfe"
+    },
+    {
+      "type": "java",
+      "name": "insertionSort",
+      "request": "launch",
+      "mainClass": "insertionSort",
+      "projectName": "javasoma_b38dcfe"
+    },
+    {
+      "type": "java",
+      "name": "selectionSort",
+      "request": "launch",
+      "mainClass": "selectionSort",
+      "projectName": "javasoma_b38dcfe"
+    },
+    {
+      "type": "java",
+      "name": "bubbleSort",
+      "request": "launch",
+      "mainClass": "bubbleSort",
+      "projectName": "javasoma_b38dcfe"
+    },
+    {
+      "type": "java",
+      "name": "paintHouseKColors",
+      "request": "launch",
+      "mainClass": "paintHouseKColors",
+      "projectName": "javasoma_b38dcfe"
+    },
+    {
+      "type": "java",
+      "name": "paintHouse3Colors",
+      "request": "launch",
+      "mainClass": "paintHouse3Colors",
+      "projectName": "javasoma_b38dcfe"
+    },
+    {
+      "type": "java",
+      "name": "decodeWays",
+      "request": "launch",
+      "mainClass": "decodeWays",
+      "projectName": "javasoma_b38dcfe"
+    },
+    {
+      "type": "java",
+      "name": "countBinaryStrings",
+      "request": "launch",
+      "mainClass": "countBinaryStrings",
+      "projectName": "javasoma_b38dcfe"
+    },
+    {
+      "type": "java",
+      "name": "knapsackProblem01",
+      "request": "launch",
+      "mainClass": "knapsackProblem01",
+      "projectName": "javasoma_b38dcfe"
+    },
+    {
+      "type": "java",
+      "name": "coinChangePermutations",
+      "request": "launch",
+      "mainClass": "coinChangePermutations",
+      "projectName": "javasoma_b38dcfe"
+    },
+    {
+      "type": "java",
+      "name": "coinChangeCombinations",
+      "request": "launch",
+      "mainClass": "coinChangeCombinations",
+      "projectName": "javasoma_b38dcfe"
+    },
+    {
+      "type": "java",
+      "name": "targetSumSubsetsDP",
+      "request": "launch",
+      "mainClass": "targetSumSubsetsDP",
+      "projectName": "javasoma_b38dcfe"
+    },
+    {
+      "type": "java",
+      "name": "mergeKSortedLists",
+      "request": "launch",
+      "mainClass": "mergeKSortedLists",
+      "projectName": "javasoma_b38dcfe"
+    },
+    {
+      "type": "java",
+      "name": "medianPriorityQueue",
+      "request": "launch",
+      "mainClass": "medianPriorityQueue",
+      "projectName": "javasoma_b38dcfe"
+    },
+    {
+      "type": "java",
+      "name": "sortNearlySortedArray",
+      "request": "launch",
+      "mainClass": "sortNearlySortedArray",
+      "projectName": "javasoma_b38dcfe"
+    },
+    {
+      "type": "java",
+      "name": "kLargestElementsInArray",
+      "request": "launch",
+      "mainClass": "kLargestElementsInArray",
+      "projectName": "javasoma_b38dcfe"
+    },
+    {
+      "type": "java",
+      "name": "longestConsecutiveSeq",
+      "request": "launch",
+      "mainClass": "longestConsecutiveSeq",
+      "projectName": "javasoma_b38dcfe"
+    },
+    {
+      "type": "java",
+      "name": "getCommonElement",
+      "request": "launch",
+      "mainClass": "getCommonElement",
+      "projectName": "javasoma_b38dcfe"
+    },
+    {
+      "type": "java",
+      "name": "highestFrequencyCharacter",
+      "request": "launch",
+      "mainClass": "highestFrequencyCharacter",
+      "projectName": "javasoma_b38dcfe"
+    },
+    {
+      "type": "java",
+      "name": "hashmap",
+      "request": "launch",
+      "mainClass": "hashmap",
+      "projectName": "javasoma_b38dcfe"
+    },
+    {
+      "type": "java",
+      "name": "binarySearchTree",
+      "request": "launch",
+      "mainClass": "binarySearchTree",
+      "projectName": "javasoma_b38dcfe"
+    },
+    {
+      "type": "java",
+      "name": "goldmine",
+      "request": "launch",
+      "mainClass": "goldmine",
+      "projectName": "javasoma_b38dcfe"
+    },
+    {
+      "type": "java",
+      "name": "minimumCostPath",
+      "request": "launch",
+      "mainClass": "minimumCostPath",
+      "projectName": "javasoma_b38dcfe"
+    },
+    {
+      "type": "java",
+      "name": "climbingStairsWithMinMoves",
+      "request": "launch",
+      "mainClass": "climbingStairsWithMinMoves",
+      "projectName": "javasoma_b38dcfe"
+    },
+    {
+      "type": "java",
+      "name": "climbingStairsWithVarJumps",
+      "request": "launch",
+      "mainClass": "climbingStairsWithVarJumps",
+      "projectName": "javasoma_b38dcfe"
+    },
+    {
+      "type": "java",
+      "name": "climbingStairs",
+      "request": "launch",
+      "mainClass": "climbingStairs",
+      "projectName": "javasoma_b38dcfe"
+    },
+    {
+      "type": "java",
+      "name": "fibonacciDP",
+      "request": "launch",
+      "mainClass": "fibonacciDP",
+      "projectName": "javasoma_b38dcfe"
+    },
+    {
+      "type": "java",
+      "name": "nQueens",
+      "request": "launch",
+      "mainClass": "nQueens",
+      "projectName": "javasoma_b38dcfe"
+    },
+    {
+      "type": "java",
+      "name": "targetSumSubsets",
+      "request": "launch",
+      "mainClass": "targetSumSubsets",
+      "projectName": "javasoma_b38dcfe"
+    },
+    {
+      "type": "java",
+      "name": "printEncodings",
+      "request": "launch",
+      "mainClass": "printEncodings",
+      "projectName": "javasoma_b38dcfe"
+    },
+    {
+      "type": "java",
+      "name": "printPermutationsOfString",
+      "request": "launch",
+      "mainClass": "printPermutationsOfString",
+      "projectName": "javasoma_b38dcfe"
+    },
+    {
+      "type": "java",
+      "name": "getMazePathsWithJump",
+      "request": "launch",
+      "mainClass": "getMazePathsWithJump",
+      "projectName": "javasoma_b38dcfe"
+    },
+    {
+      "type": "java",
+      "name": "getMazePaths",
+      "request": "launch",
+      "mainClass": "getMazePaths",
+      "projectName": "javasoma_b38dcfe"
+    },
+    {
+      "type": "java",
+      "name": "getStairsPath",
+      "request": "launch",
+      "mainClass": "getStairsPath",
+      "projectName": "javasoma_b38dcfe"
+    },
+    {
+      "type": "java",
+      "name": "getKeypadOfString",
+      "request": "launch",
+      "mainClass": "getKeypadOfString",
+      "projectName": "javasoma_b38dcfe"
+    },
+    {
+      "type": "java",
+      "name": "subsequenceOfString",
+      "request": "launch",
+      "mainClass": "subsequenceOfString",
+      "projectName": "javasoma_b38dcfe"
+    },
+    {
+      "type": "java",
+      "name": "firstLastAllIndicesOfOccurence",
+      "request": "launch",
+      "mainClass": "firstLastAllIndicesOfOccurence",
+      "projectName": "javasoma_b38dcfe"
+    },
+    {
+      "type": "java",
+      "name": "firstAndLastIndexOfOccurence",
+      "request": "launch",
+      "mainClass": "firstAndLastIndexOfOccurence",
+      "projectName": "javasoma_b38dcfe"
+    },
+    {
+      "type": "java",
+      "name": "maximumInArrayRecursive",
+      "request": "launch",
+      "mainClass": "maximumInArrayRecursive",
+      "projectName": "javasoma_b38dcfe"
+    },
+    {
+      "type": "java",
+      "name": "displayArrayRecursive",
+      "request": "launch",
+      "mainClass": "displayArrayRecursive",
+      "projectName": "javasoma_b38dcfe"
+    },
+    {
+      "type": "java",
+      "name": "towerOfHanoi",
+      "request": "launch",
+      "mainClass": "towerOfHanoi",
+      "projectName": "javasoma_b38dcfe"
+    },
+    {
+      "type": "java",
+      "name": "celebrityProblem",
+      "request": "launch",
+      "mainClass": "celebrityProblem",
+      "projectName": "javasoma_b38dcfe"
+    },
+    {
+      "type": "java",
+      "name": "factorial",
+      "request": "launch",
+      "mainClass": "factorial",
+      "projectName": "javasoma_b38dcfe"
+    },
+    {
+      "type": "java",
+      "name": "firstAndLastIndexInArray",
+      "request": "launch",
+      "mainClass": "firstAndLastIndexInArray",
+      "projectName": "javasoma_b38dcfe"
+    },
+    {
+      "type": "java",
+      "name": "ceilAndFloorInArray",
+      "request": "launch",
+      "mainClass": "ceilAndFloorInArray",
+      "projectName": "javasoma_b38dcfe"
+    },
+    {
+      "type": "java",
+      "name": "binarySearchInArray",
+      "request": "launch",
+      "mainClass": "binarySearchInArray",
+      "projectName": "javasoma_b38dcfe"
+    },
+    {
+      "type": "java",
+      "name": "subsetsOfArray",
+      "request": "launch",
+      "mainClass": "subsetsOfArray",
+      "projectName": "javasoma_b38dcfe"
+    },
+    {
+      "type": "java",
+      "name": "subarraysOfArray",
+      "request": "launch",
+      "mainClass": "subarraysOfArray",
+      "projectName": "javasoma_b38dcfe"
+    },
+    {
+      "type": "java",
+      "name": "inverseArray",
+      "request": "launch",
+      "mainClass": "inverseArray",
+      "projectName": "javasoma_b38dcfe"
+    },
+    {
+      "type": "java",
+      "name": "rotateArray",
+      "request": "launch",
+      "mainClass": "rotateArray",
+      "projectName": "javasoma_b38dcfe"
+    },
+    {
+      "type": "java",
+      "name": "reverseArray",
+      "request": "launch",
+      "mainClass": "reverseArray",
+      "projectName": "javasoma_b38dcfe"
+    },
+    {
+      "type": "java",
+      "name": "searchInSortedMatrix",
+      "request": "launch",
+      "mainClass": "searchInSortedMatrix",
+      "projectName": "javasoma_b38dcfe"
+    },
+    {
+      "type": "java",
+      "name": "saddlePointOfMatrix",
+      "request": "launch",
+      "mainClass": "saddlePointOfMatrix",
+      "projectName": "javasoma_b38dcfe"
+    },
+    {
+      "type": "java",
+      "name": "diagonalTraversalMatrix",
+      "request": "launch",
+      "mainClass": "diagonalTraversalMatrix",
+      "projectName": "javasoma_b38dcfe"
+    },
+    {
+      "type": "java",
+      "name": "rotateMatrixByNinetyDeg",
+      "request": "launch",
+      "mainClass": "rotateMatrixByNinetyDeg",
+      "projectName": "javasoma_b38dcfe"
+    },
+    {
+      "type": "java",
+      "name": "exitPointOfMatrix",
+      "request": "launch",
+      "mainClass": "exitPointOfMatrix",
+      "projectName": "javasoma_b38dcfe"
+    },
+    {
+      "type": "java",
+      "name": "waveTraversalTwoDArray",
+      "request": "launch",
+      "mainClass": "waveTraversalTwoDArray",
+      "projectName": "javasoma_b38dcfe"
+    },
+    {
+      "type": "java",
+      "name": "matrixMultiplication",
+      "request": "launch",
+      "mainClass": "matrixMultiplication",
+      "projectName": "javasoma_b38dcfe"
+    },
+    {
+      "type": "java",
+      "name": "twoDimensionalArray",
+      "request": "launch",
+      "mainClass": "twoDimensionalArray",
+      "projectName": "javasoma_b38dcfe"
+    },
+    {
+      "type": "java",
+      "name": "binaryTree",
+      "request": "launch",
+      "mainClass": "binaryTree",
+      "projectName": "javasoma_b38dcfe"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/princ/OneDrive/Desktop/javasoma",
+      "program": "c:/Users/princ/OneDrive/Desktop/javasoma/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
